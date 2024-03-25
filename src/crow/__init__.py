@@ -1,3 +1,6 @@
+from crow.crow import req
+
+
 def main() -> int:
-    print("Hello from crow!")
+    req()
     return 0
