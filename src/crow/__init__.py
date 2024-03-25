@@ -1,2 +1,3 @@
-def hello() -> str:
-    return "Hello from crow!"
+def main() -> int:
+    print("Hello from crow!")
+    return 0
