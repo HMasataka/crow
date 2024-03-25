@@ -1,3 +1,6 @@
 # crow
 
-Describe your project here.
+```fish
+rye init crow
+```
+
