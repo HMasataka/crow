@@ -1,6 +1,5 @@
 # crow
 
 ```fish
-rye init crow
+rye init --script crow
 ```
-
